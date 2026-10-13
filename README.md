@@ -3,7 +3,7 @@
 A private, offline-first password vault you can install on your phone or desktop. Your entries never leave your device — everything is encrypted locally with a key derived from your master password.
 
 **Live:**
-- Vercel: https://password-vault-srrecode.vercel.app *(pending first deploy)*
+- Vercel: https://password-vault-six-iota.vercel.app
 - GitHub Pages: https://srrecode.github.io/password-vault/ *(after Pages is enabled in repo settings)*
 
 ## Features
